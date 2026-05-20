@@ -4,14 +4,13 @@ public:
         int n = A.size();
         unordered_map<int, int> freq;
         vector<int> ans(n);
+        int cnt = 0;
         for(int i = 0; i < n; i++) {
             int a = A[i], b = B[i];
             freq[a]++;
+            if(freq[a] == 2) cnt++;
             freq[b]++;
-            int cnt = 0;
-            for(auto it : freq) {
-                if(it.second == 2) cnt++;
-            }
+            if(freq[b] == 2) cnt++;
             ans[i] = cnt;
         }
         return ans;
