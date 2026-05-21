@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0162-find-peak-element) |
 | [0485-max-consecutive-ones](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0485-max-consecutive-ones) |
 | [1024-video-stitching](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1024-video-stitching) |
 | [1470-shuffle-the-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1470-shuffle-the-array) |
@@ -78,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
