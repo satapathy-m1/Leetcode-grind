@@ -12,9 +12,16 @@ public:
     int minRemovals(vector<int>& nums, int target) {
         int n = nums.size();
         
-        vector<vector<int>> dp(n, vector<int>(16384, -1));
-        int xorr = 0;
-        int ans = f(0, xorr, n, nums, target, dp);
-        return ans >= 1e9 ? -1 : ans;
+        vector<vector<int>> dp(n + 1, vector<int>(16384, 1e9));
+        dp[n][target] = 0;
+        for(int i = n - 1; i >= 0; i--) {
+            for(int xorr = 0; xorr <= 16383; xorr++) {
+                int take = dp[i + 1][xorr ^ nums[i]];
+                int notT = 1 + dp[i + 1][xorr];
+                dp[i][xorr] = min(take, notT);
+            }
+        }
+        
+        return dp[0][0] >= 1e9 ? -1 : dp[0][0];
     }
 };
