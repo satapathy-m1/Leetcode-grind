@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3905-multi-source-flood-fill](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3905-multi-source-flood-fill) |
 ## Dynamic Programming
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1871-jump-game-vii) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Greedy
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Linked List
 |  |
 | ------- |
