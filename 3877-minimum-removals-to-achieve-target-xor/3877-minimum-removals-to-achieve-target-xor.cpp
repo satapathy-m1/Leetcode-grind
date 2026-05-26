@@ -13,15 +13,18 @@ public:
         int n = nums.size();
         
         vector<vector<int>> dp(n + 1, vector<int>(16384, 1e9));
-        dp[n][target] = 0;
+        vector<int> curr(16384, 1e9), ahead(16384, 1e9);
+
+        ahead[target] = 0;
         for(int i = n - 1; i >= 0; i--) {
             for(int xorr = 0; xorr <= 16383; xorr++) {
-                int take = dp[i + 1][xorr ^ nums[i]];
-                int notT = 1 + dp[i + 1][xorr];
-                dp[i][xorr] = min(take, notT);
+                int take = ahead[xorr ^ nums[i]];
+                int notT = 1 + ahead[xorr];
+                curr[xorr] = min(take, notT);
             }
+            ahead = curr;
         }
         
-        return dp[0][0] >= 1e9 ? -1 : dp[0][0];
+        return ahead[0] >= 1e9 ? -1 : ahead[0];
     }
 };
