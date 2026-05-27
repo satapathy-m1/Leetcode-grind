@@ -1,3 +1,16 @@
+# Leetcode Grind
+
+![Language](https://img.shields.io/badge/language-C%2B%2B-blue.svg) ![Problems](https://img.shields.io/badge/problems_solved-34-green.svg) ![Status](https://img.shields.io/badge/status-ongoing-orange.svg)
+
+A structured collection of LeetCode solutions in C++, organized by problem number and synced automatically via LeetHub v2.
+
+---
+
+## Overview
+
+This repository tracks my ongoing LeetCode practice. Each problem lives in its own directory named by problem number and slug, containing the solution file as pushed by LeetHub. The focus is on building consistent depth across core DSA topics rather than chasing problem count.
+
+---
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
