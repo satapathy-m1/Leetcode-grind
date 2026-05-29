@@ -1,36 +1,56 @@
 class Solution {
 public:
-    void putAllPrefixIntoSet(int num, unordered_set<int>& st) {
-        while(num) {
-            st.insert(num);
-            num /= 10;
-        }
+    struct TrieNode {
+        bool endOfNum;
+        string num;
+        TrieNode* children[10];
+    };
+
+    TrieNode* getNode() {
+        TrieNode* newNode = new TrieNode();
+
+        newNode -> endOfNum = false;
+        newNode -> num = "";
+        for(int i = 0; i < 10; i++) newNode -> children[i] = NULL;
+
+        return newNode;
     }
-    int checkLength(int num) {
-        int cnt = 0;
-        while(num) {
-            cnt++;
-            num /= 10;
+
+    void insert(TrieNode* root, string num) {
+        TrieNode* pCrawl = root;
+        for(char c : num) {
+            int i = c - '0';
+            if(pCrawl -> children[i] == NULL) {
+                pCrawl -> children[i] = getNode();
+            } 
+            pCrawl = pCrawl -> children[i];
         }
-        return cnt;
+        pCrawl -> endOfNum = true;
+        pCrawl -> num = num;
     }
+
+    int getLenOfPrefix(TrieNode* root, string num) {
+        TrieNode* pCrawl = root;
+        int len = 0;
+        for(char c : num) {
+            int i = c - '0';
+            if(pCrawl -> children[i] == NULL) break;
+            pCrawl = pCrawl -> children[i];
+            len++;
+        }
+        return len;
+    }
+
     int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
-        int n = arr1.size(), m = arr2.size();
-        unordered_set<int> st;
-        for(int i = 0; i < n; i++) {
-            int num = arr1[i];
-            putAllPrefixIntoSet(num, st);
+        TrieNode* root = getNode();
+        for(int i : arr2) {
+            string num = to_string(i);
+            insert(root, num);
         }
         int maxi = 0;
-        for(int i = 0; i < m; i++) {
-            int num = arr2[i];
-            while(num) {
-                if(st.count(num)) {
-                    maxi = max(maxi, checkLength(num));
-                    break;
-                }
-                num /= 10;
-            }
+        for(int i : arr1) {
+            string num = to_string(i);
+            maxi = max(maxi, getLenOfPrefix(root, num));
         }
         return maxi;
     }
