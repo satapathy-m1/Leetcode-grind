@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-design-memory-allocator](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2502-design-memory-allocator) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3093-longest-common-suffix-queries) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1024-video-stitching](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1024-video-stitching) |
 | [1903-largest-odd-number-in-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1903-largest-odd-number-in-string) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Simulation
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-design-memory-allocator](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2502-design-memory-allocator) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0143-reorder-list) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Stack
 |  |
 | ------- |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0162-find-peak-element) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3161-block-placement-queries](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3161-block-placement-queries) |
 ## Breadth-First Search
 |  |
@@ -170,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2416-sum-of-prefix-scores-of-strings) |
+| [2856-minimum-array-length-after-pair-removals](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 ## Sorting
 |  |
