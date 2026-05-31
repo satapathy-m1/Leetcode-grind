@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1929-concatenation-of-array) |
+| [2126-destroying-asteroids](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2126-destroying-asteroids) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2502-design-memory-allocator](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2502-design-memory-allocator) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1024-video-stitching](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1024-video-stitching) |
 | [1903-largest-odd-number-in-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1903-largest-odd-number-in-string) |
+| [2126-destroying-asteroids](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2126-destroying-asteroids) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2856-minimum-array-length-after-pair-removals) |
 ## Simulation
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1340-jump-game-v) |
+| [2126-destroying-asteroids](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2126-destroying-asteroids) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2830-maximize-the-profit-as-the-salesman) |
 ## Combinatorics
 |  |
