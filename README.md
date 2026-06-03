@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0844-backspace-string-compare) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1929-concatenation-of-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1929-concatenation-of-array) |
 | [2502-design-memory-allocator](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2502-design-memory-allocator) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0011-container-with-most-water) |
 | [0143-reorder-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0143-reorder-list) |
 | [0481-magical-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0481-magical-string) |
+| [0844-backspace-string-compare](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0844-backspace-string-compare) |
 | [0870-advantage-shuffle](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0870-advantage-shuffle) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0143-reorder-list) |
 | [0735-asteroid-collision](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0844-backspace-string-compare) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0212-word-search-ii) |
 | [0481-magical-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0481-magical-string) |
 | [0648-replace-words](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0648-replace-words) |
+| [0844-backspace-string-compare](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0844-backspace-string-compare) |
 | [1871-jump-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1903-largest-odd-number-in-string) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2416-sum-of-prefix-scores-of-strings) |
