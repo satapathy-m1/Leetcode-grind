@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0870-advantage-shuffle](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0870-advantage-shuffle) |
 | [0877-stone-game](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0877-stone-game) |
 | [1024-video-stitching](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1024-video-stitching) |
+| [1094-car-pooling](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1406-stone-game-iii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0844-backspace-string-compare) |
+| [1094-car-pooling](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1094-car-pooling) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1929-concatenation-of-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1929-concatenation-of-array) |
 | [2502-design-memory-allocator](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2502-design-memory-allocator) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0870-advantage-shuffle](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0870-advantage-shuffle) |
+| [1094-car-pooling](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1094-car-pooling) |
 | [1340-jump-game-v](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1340-jump-game-v) |
 | [2126-destroying-asteroids](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1140-stone-game-ii) |
 | [1871-jump-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1871-jump-game-vii) |
 ## Design
@@ -305,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0146-lru-cache) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
