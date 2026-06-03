@@ -29,10 +29,10 @@ public:
                     int sellProfit = max(prices[i] + ahead[!flag], 0 + ahead[flag]);
                     profit = max(profit, sellProfit);
                 }
-                curr[flag] = profit;
+                ahead[flag] = profit;
             }
-            ahead = curr;
+            
         }
-        return curr[1];
+        return ahead[1];
     }
 };
