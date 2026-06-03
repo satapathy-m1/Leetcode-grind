@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0648-replace-words) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2502-design-memory-allocator](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2502-design-memory-allocator) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2830-maximize-the-profit-as-the-salesman) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1192-critical-connections-in-a-network) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph Theory
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3905-multi-source-flood-fill](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3905-multi-source-flood-fill) |
 ## Matrix
 |  |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Monotonic Stack
 |  |
 | ------- |
