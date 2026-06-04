@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0212-word-search-ii) |
 | [0312-burst-balloons](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0312-burst-balloons) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1192-critical-connections-in-a-network) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -224,12 +226,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3905-multi-source-flood-fill](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3905-multi-source-flood-fill) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0212-word-search-ii) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [3905-multi-source-flood-fill](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3905-multi-source-flood-fill) |
@@ -324,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
