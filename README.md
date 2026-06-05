@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1192-critical-connections-in-a-network) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph Theory
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0648-replace-words) |
 | [0844-backspace-string-compare](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0844-backspace-string-compare) |
 | [1446-consecutive-characters](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1446-consecutive-characters) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1871-jump-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1871-jump-game-vii) |
 | [1903-largest-odd-number-in-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1903-largest-odd-number-in-string) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2416-sum-of-prefix-scores-of-strings) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3905-multi-source-flood-fill](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3905-multi-source-flood-fill) |
 ## Matrix
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Union-Find
 |  |
