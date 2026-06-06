@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1094-car-pooling) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0149-max-points-on-a-line) |
+| [0258-add-digits](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0263-ugly-number) |
 | [0587-erect-the-fence](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0587-erect-the-fence) |
 | [0877-stone-game](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0877-stone-game) |
@@ -357,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0587-erect-the-fence) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
