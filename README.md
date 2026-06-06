@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0035-search-insert-position) |
 | [0063-unique-paths-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0063-unique-paths-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0149-max-points-on-a-line](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0648-replace-words) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0062-unique-paths) |
+| [0149-max-points-on-a-line](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0149-max-points-on-a-line) |
 | [0263-ugly-number](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0263-ugly-number) |
 | [0587-erect-the-fence](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0587-erect-the-fence) |
 | [0877-stone-game](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0877-stone-game) |
@@ -352,5 +355,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
