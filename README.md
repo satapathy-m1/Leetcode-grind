@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1192-critical-connections-in-a-network) |
+| [1615-maximal-network-rank](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1615-maximal-network-rank) |
 | [2101-detonate-the-maximum-bombs](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2101-detonate-the-maximum-bombs) |
 ## Biconnected Component
 |  |
