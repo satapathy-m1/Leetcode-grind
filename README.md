@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1470-shuffle-the-array) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1905-count-sub-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1905-count-sub-islands) |
 | [1929-concatenation-of-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1929-concatenation-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2101-detonate-the-maximum-bombs) |
 | [2126-destroying-asteroids](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2126-destroying-asteroids) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1192-critical-connections-in-a-network) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [1905-count-sub-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1905-count-sub-islands) |
 | [2101-detonate-the-maximum-bombs](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2101-detonate-the-maximum-bombs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [1905-count-sub-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1905-count-sub-islands) |
 | [2101-detonate-the-maximum-bombs](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2101-detonate-the-maximum-bombs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3905-multi-source-flood-fill](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3905-multi-source-flood-fill) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0212-word-search-ii) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1905-count-sub-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1905-count-sub-islands) |
 | [3905-multi-source-flood-fill](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3905-multi-source-flood-fill) |
 ## Counting
 |  |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1905-count-sub-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1905-count-sub-islands) |
 ## Database
 |  |
 | ------- |
