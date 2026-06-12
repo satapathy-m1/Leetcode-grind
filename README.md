@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0143-reorder-list) |
 | [0735-asteroid-collision](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0739-daily-temperatures) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1192-critical-connections-in-a-network) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
