@@ -10,16 +10,26 @@
  */
 class Solution {
 public:
+    ListNode* reverseLL(ListNode* head) {
+        if(!head || !head -> next) return head;
+
+        ListNode* last = reverseLL(head -> next);
+        head -> next -> next = head;
+        head -> next = NULL;
+        return last;
+    }
     int pairSum(ListNode* head) {
-        vector<int> vec;
-        while(head) {
-            vec.push_back(head -> val);
-            head = head -> next;
+        ListNode* lh = head, *rh = NULL, *slow = head, *fast = head;
+        while(fast && fast -> next) {
+            slow = slow -> next;
+            fast = fast -> next -> next;
         }
+        slow = reverseLL(slow);
         int maxSum = 0;
-        int n = vec.size();
-        for(int i = 0; i < n; i++) {
-            maxSum = max(maxSum, vec[i] + vec[n - i -1]);
+        while(slow) {
+            maxSum = max(maxSum, (lh -> val + slow -> val));
+            lh = lh -> next;
+            slow = slow -> next;
         }
         return maxSum;
     }
