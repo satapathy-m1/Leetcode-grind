@@ -9,31 +9,18 @@
  * };
  */
 class Solution {
-private:
-    ListNode* reverseList(ListNode* head) {
-        if(!head || !head -> next) return head;
-
-        ListNode* reversedHead = reverseList(head -> next);
-        head -> next -> next = head;
-        head -> next = NULL;
-
-        return reversedHead;
-    }
 public:
     int pairSum(ListNode* head) {
-        ListNode* fH = head, *sH = NULL, *slow = head, *fast = head;
-        while(fast && fast -> next) {
-            slow = slow -> next;
-            fast = fast -> next -> next;
+        vector<int> vec;
+        while(head) {
+            vec.push_back(head -> val);
+            head = head -> next;
         }
-        
-        sH = reverseList(slow);
-        int maxi = 0;
-        while(fH && sH) {
-            maxi = max(maxi, (fH -> val + sH -> val));
-            sH = sH -> next;
-            fH = fH -> next;
+        int maxSum = 0;
+        int n = vec.size();
+        for(int i = 0; i < n; i++) {
+            maxSum = max(maxSum, vec[i] + vec[n - i -1]);
         }
-        return maxi;
+        return maxSum;
     }
 };
