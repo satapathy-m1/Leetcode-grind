@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0146-lru-cache) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0481-magical-string) |
 | [0844-backspace-string-compare](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0844-backspace-string-compare) |
 | [0870-advantage-shuffle](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0870-advantage-shuffle) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0844-backspace-string-compare) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
