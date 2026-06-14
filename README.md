@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0948-bag-of-tokens) |
 | [1024-video-stitching](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1024-video-stitching) |
+| [1328-break-a-palindrome](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1328-break-a-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0481-magical-string) |
 | [0648-replace-words](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0648-replace-words) |
 | [0844-backspace-string-compare](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0844-backspace-string-compare) |
+| [1328-break-a-palindrome](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1328-break-a-palindrome) |
 | [1446-consecutive-characters](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1446-consecutive-characters) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1871-jump-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1871-jump-game-vii) |
