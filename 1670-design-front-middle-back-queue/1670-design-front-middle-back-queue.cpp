@@ -1,4 +1,12 @@
 class FrontMiddleBackQueue {
+private:
+    void balance(deque<int>& dq1, deque<int>& d2) {
+        if(dq1.size() < dq2.size()) {
+            int val = dq2.front();
+            dq2.pop_front();
+            dq1.push_back(val);
+        }
+    }
 public:
 deque<int> dq1, dq2;
     FrontMiddleBackQueue() {
@@ -28,11 +36,7 @@ deque<int> dq1, dq2;
         if(dq1.empty()) dq1.push_back(val);
         else {
             dq2.push_back(val);
-            if(dq1.size() < dq2.size()) {
-                int val = dq2.front();
-                dq2.pop_front();
-                dq1.push_back(val);
-            }
+            balance(dq1, dq2);
         }
     }
     
@@ -40,11 +44,7 @@ deque<int> dq1, dq2;
         if(dq1.empty()) return -1;
         int d = dq1.front();
         dq1.pop_front();
-        if(dq1.size() < dq2.size()) {
-            int val = dq2.front();
-            dq2.pop_front();
-            dq1.push_back(val);
-        }
+        balance(dq1, dq2);
         return d;
     }
     
@@ -52,11 +52,7 @@ deque<int> dq1, dq2;
         if(dq1.empty()) return -1;
         int d = dq1.back();
         dq1.pop_back();
-        if(dq1.size() < dq2.size()) {
-            int val = dq2.front();
-            dq2.pop_front();
-            dq1.push_back(val);
-        }
+        balance(dq1, dq2);
         return d;
     }
     
