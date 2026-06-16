@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2502-design-memory-allocator](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2502-design-memory-allocator) |
+| [3612-process-string-with-special-operations-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
