@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0212-word-search-ii) |
+| [0303-range-sum-query-immutable](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0312-burst-balloons) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0485-max-consecutive-ones) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1140-stone-game-ii) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0208-implement-trie-prefix-tree) |
+| [0303-range-sum-query-immutable](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0303-range-sum-query-immutable) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1670-design-front-middle-back-queue](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1670-design-front-middle-back-queue) |
 | [2502-design-memory-allocator](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2502-design-memory-allocator) |
