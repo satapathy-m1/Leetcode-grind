@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0038-count-and-say) |
 | [0208-implement-trie-prefix-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0212-word-search-ii) |
 | [0481-magical-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0481-magical-string) |
