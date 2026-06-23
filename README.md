@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3877-minimum-removals-to-achieve-target-xor) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2574-left-and-right-sum-differences) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3904-smallest-stable-index-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3904-smallest-stable-index-ii) |
 ## Design
 |  |
