@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0312-burst-balloons](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0312-burst-balloons) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0149-max-points-on-a-line) |
 | [0258-add-digits](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0263-ugly-number) |
@@ -543,4 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0526-beautiful-arrangement) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
