@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0011-container-with-most-water) |
 | [0143-reorder-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0143-reorder-list) |
+| [0165-compare-version-numbers](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0165-compare-version-numbers) |
 | [0481-magical-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0481-magical-string) |
 | [0844-backspace-string-compare](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0844-backspace-string-compare) |
 | [0870-advantage-shuffle](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0870-advantage-shuffle) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0038-count-and-say) |
+| [0165-compare-version-numbers](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0212-word-search-ii) |
 | [0299-bulls-and-cows](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0299-bulls-and-cows) |
