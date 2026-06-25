@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0070-climbing-stairs) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3737-count-subarrays-with-majority-element-i) |
