@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0035-search-insert-position) |
 | [0063-unique-paths-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0063-unique-paths-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0143-reorder-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0165-compare-version-numbers) |
 | [0481-magical-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0481-magical-string) |
