@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3838-weighted-word-mapping) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3904-smallest-stable-index-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3904-smallest-stable-index-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3904-smallest-stable-index-ii) |
 ## Design
 |  |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -563,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bitmask
 |  |
 | ------- |
@@ -575,4 +580,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
