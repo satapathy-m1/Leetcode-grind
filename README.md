@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0304-range-sum-query-2d-immutable) |
 | [0312-burst-balloons](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0312-burst-balloons) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0485-max-consecutive-ones) |
 | [0526-beautiful-arrangement](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0526-beautiful-arrangement) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0208-implement-trie-prefix-tree) |
 | [0299-bulls-and-cows](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0299-bulls-and-cows) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0648-replace-words](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0648-replace-words) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0143-reorder-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0165-compare-version-numbers) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0481-magical-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0844-backspace-string-compare) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0162-find-peak-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0169-majority-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-advantage-shuffle](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0948-bag-of-tokens) |
