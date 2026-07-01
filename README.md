@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0212-word-search-ii) |
+| [0238-product-of-array-except-self](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0304-range-sum-query-2d-immutable) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
