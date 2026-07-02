@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0587-erect-the-fence](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0587-erect-the-fence) |
+| [0621-task-scheduler](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0648-replace-words) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0735-asteroid-collision) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0409-longest-palindrome) |
+| [0621-task-scheduler](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0870-advantage-shuffle](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0870-advantage-shuffle) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0648-replace-words) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1189-maximum-number-of-balloons) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0299-bulls-and-cows) |
+| [0621-task-scheduler](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1189-maximum-number-of-balloons) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2856-minimum-array-length-after-pair-removals) |
@@ -421,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0621-task-scheduler](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0621-task-scheduler) |
 | [0870-advantage-shuffle](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0870-advantage-shuffle) |
 | [0881-boats-to-save-people](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0948-bag-of-tokens) |
@@ -554,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0621-task-scheduler) |
 | [1094-car-pooling](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1094-car-pooling) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3286-find-a-safe-walk-through-a-grid) |
