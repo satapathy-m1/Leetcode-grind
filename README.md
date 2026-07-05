@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1254-number-of-closed-islands) |
+| [1301-number-of-paths-with-max-score](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1406-stone-game-iii) |
 | [1470-shuffle-the-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1470-shuffle-the-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1024-video-stitching) |
 | [1035-uncrossed-lines](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1035-uncrossed-lines) |
 | [1140-stone-game-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1140-stone-game-ii) |
+| [1301-number-of-paths-with-max-score](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1340-jump-game-v) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1406-stone-game-iii) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0741-cherry-pickup) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1254-number-of-closed-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1254-number-of-closed-islands) |
+| [1301-number-of-paths-with-max-score](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1301-number-of-paths-with-max-score) |
 | [1905-count-sub-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1905-count-sub-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3286-find-a-safe-walk-through-a-grid) |
