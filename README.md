@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0741-cherry-pickup) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0870-advantage-shuffle](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0870-advantage-shuffle) |
+| [0875-koko-eating-bananas](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0948-bag-of-tokens) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0162-find-peak-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1838-frequency-of-the-most-frequent-element) |
