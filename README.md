@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2502-design-memory-allocator](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2502-design-memory-allocator) |
 | [2574-left-and-right-sum-differences](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2574-left-and-right-sum-differences) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2856-minimum-array-length-after-pair-removals](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2856-minimum-array-length-after-pair-removals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
