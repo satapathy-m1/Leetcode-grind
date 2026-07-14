@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3161-block-placement-queries) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2140-solving-questions-with-brainpower) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2830-maximize-the-profit-as-the-salesman) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3620-network-recovery-pathways) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0258-add-digits) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
