@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0741-cherry-pickup) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0870-advantage-shuffle](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0870-advantage-shuffle) |
+| [0874-walking-robot-simulation](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0881-boats-to-save-people) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0844-backspace-string-compare) |
+| [0874-walking-robot-simulation](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1094-car-pooling) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1929-concatenation-of-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1929-concatenation-of-array) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0648-replace-words) |
+| [0874-walking-robot-simulation](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0874-walking-robot-simulation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1331-rank-transform-of-an-array) |
