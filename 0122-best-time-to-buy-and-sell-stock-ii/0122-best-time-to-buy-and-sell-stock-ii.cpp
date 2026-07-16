@@ -1,38 +1,25 @@
 class Solution {
-public:
+private:
+    int n;
     vector<vector<int>> dp;
-    int f(int i, int flag, int n, vector<int>& prices) {
+    int f(int i, bool buy, vector<int>& prices) {
         if(i == n) return 0;
-        if(dp[i][flag] != -1) return dp[i][flag];
-        int profit = 0;
-        if(flag) {
-            int buyProfit = max(-prices[i] + f(i + 1, !flag, n, prices), 0 + f(i + 1, flag, n, prices));
-            profit = max(profit, buyProfit);
+        if(dp[i][buy] != -1) return dp[i][buy];
+        int take = 0, notT = 0;
+        if(buy) {
+            take = -prices[i] + f(i + 1, !buy, prices);
+            notT = f(i + 1, buy, prices);
         }
         else {
-            int sellProfit = max(prices[i] + f(i + 1, !flag, n, prices), 0 + f(i + 1, flag, n, prices));
-            profit = max(profit, sellProfit);
+            take = prices[i] + f(i + 1, !buy, prices);
+            notT = f(i + 1, buy, prices);
         }
-        return dp[i][flag] = profit;
+        return dp[i][buy] = max(take, notT);
     }
+public:
     int maxProfit(vector<int>& prices) {
-        int n = prices.size();
-        vector<int> curr(2, 0), ahead(2, 0);
-        for(int i = n - 1; i >= 0; i--) {
-            for(int flag = 0; flag < 2; flag++) {
-                int profit = 0;
-                if(flag) {
-                    int buyProfit = max(-prices[i] + ahead[!flag], 0 + ahead[flag]);
-                    profit = max(profit, buyProfit);
-                }
-                else {
-                    int sellProfit = max(prices[i] + ahead[!flag], 0 + ahead[flag]);
-                    profit = max(profit, sellProfit);
-                }
-                ahead[flag] = profit;
-            }
-            
-        }
-        return ahead[1];
+        n = prices.size();
+        dp.resize(n + 1, vector<int>(2, -1));
+        return f(0, 1, prices);
     }
 };
