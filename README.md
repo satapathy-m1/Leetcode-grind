@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1840-maximum-building-height) |
 | [1905-count-sub-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1905-count-sub-islands) |
 | [1929-concatenation-of-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2101-detonate-the-maximum-bombs) |
 | [2126-destroying-asteroids](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2136-earliest-possible-day-of-full-bloom) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2101-detonate-the-maximum-bombs) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
