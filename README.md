@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0991-broken-calculator) |
 | [1024-video-stitching](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1024-video-stitching) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1328-break-a-palindrome](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1328-break-a-palindrome) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1903-largest-odd-number-in-string) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0844-backspace-string-compare) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0541-reverse-string-ii) |
 | [0648-replace-words](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0648-replace-words) |
 | [0844-backspace-string-compare](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0844-backspace-string-compare) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1189-maximum-number-of-balloons) |
 | [1328-break-a-palindrome](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Doubly-Linked List
 |  |
 | ------- |
