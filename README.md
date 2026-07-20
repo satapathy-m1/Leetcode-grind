@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1331-rank-transform-of-an-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0844-backspace-string-compare) |
 | [0874-walking-robot-simulation](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1094-car-pooling) |
+| [1260-shift-2d-grid](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1260-shift-2d-grid) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1929-concatenation-of-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0741-cherry-pickup) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1254-number-of-closed-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1254-number-of-closed-islands) |
+| [1260-shift-2d-grid](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1301-number-of-paths-with-max-score) |
 | [1905-count-sub-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1905-count-sub-islands) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2812-find-the-safest-path-in-a-grid) |
