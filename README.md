@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3877-minimum-removals-to-achieve-target-xor) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3153-sum-of-digit-differences-of-all-pairs](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Union-Find
 |  |
