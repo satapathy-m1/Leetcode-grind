@@ -2,13 +2,11 @@ class Solution {
 public:
     int maxProduct(int n) {
         string num = to_string(n);
+        sort(begin(num), end(num));
         int s = num.size();
-        int maxi = 0;
-        for(int i = 0; i < s; i++) {
-            for(int j = i + 1; j < s; j++) {
-                maxi = max(maxi, (num[i] - '0')*(num[j] - '0'));
-            }
-        }
+        int a = num[s - 1] - '0';
+        int b = num[s - 2] - '0';
+        int maxi = (a) * (b);
         return maxi;
     }
 };
