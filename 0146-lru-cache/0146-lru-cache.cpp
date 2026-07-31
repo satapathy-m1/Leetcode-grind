@@ -1,34 +1,43 @@
 class LRUCache {
+private:
+    list<int> dll;
+    unordered_map<int, pair<int, list<int> :: iterator>> mpp;
+    int cap;
+    int currSize;
 public:
-    int size;
-    list<pair<int, int>> dll;
-
-    unordered_map<int, list<pair<int, int>> :: iterator> mpp;
     LRUCache(int capacity) {
-        size = capacity;
+        this -> cap = capacity;
+        currSize = 0;
     }
     
     int get(int key) {
-        auto keyToFind = mpp.find(key);
-        if(keyToFind == mpp.end()) return -1;
-        auto it = keyToFind -> second;
-        dll.splice(dll.begin(), dll, it);
-        return it -> second;
+        if(mpp.find(key) == mpp.end()) return -1;
+        auto [val, add] = mpp[key];
+        dll.erase(add);
+        dll.push_front(key);
+        mpp[key] = {val, dll.begin()};
+        return val;
     }
     
     void put(int key, int value) {
-        auto it = mpp.find(key);
-
-        if (it != mpp.end()) {
-            dll.erase(it->second);
+        if(mpp.find(key) != mpp.end()) {
+            auto [val, add] = mpp[key];
+            dll.erase(add);
+            dll.push_front(key);
+            mpp[key] = {value, dll.begin()};
         }
-        if(size == dll.size()) {
-            int keyToRemove = dll.back().first;
+        else if(currSize == cap) {
+            int lruKey = dll.back();
+            mpp.erase(lruKey);
             dll.pop_back();
-            mpp.erase(keyToRemove);
+            dll.push_front(key);
+            mpp[key] = {value, dll.begin()};
         }
-        dll.push_front({key, value});
-        mpp[key] = dll.begin();
+        else {
+            dll.push_front(key);
+            mpp[key] = {value, dll.begin()};
+            currSize++;
+        }
     }
 };
 
