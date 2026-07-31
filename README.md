@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0304-range-sum-query-2d-immutable) |
 | [0312-burst-balloons](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0312-burst-balloons](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0322-coin-change) |
 | [0526-beautiful-arrangement](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0526-beautiful-arrangement) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0741-cherry-pickup) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0322-coin-change) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1254-number-of-closed-islands) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
