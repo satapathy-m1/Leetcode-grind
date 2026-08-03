@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1510-stone-game-iv](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1871-jump-game-vii) |
 | [2140-solving-questions-with-brainpower](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2140-solving-questions-with-brainpower) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1510-stone-game-iv) |
 ## Tree
 |  |
 | ------- |
