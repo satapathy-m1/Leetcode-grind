@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1563-stone-game-v) |
 | [1670-design-front-middle-back-queue](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1670-design-front-middle-back-queue) |
 | [1686-stone-game-vi](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1690-stone-game-vii) |
 | [1732-find-the-highest-altitude](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1563-stone-game-v) |
+| [1690-stone-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1690-stone-game-vii) |
 | [1871-jump-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1871-jump-game-vii) |
 | [2140-solving-questions-with-brainpower](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2140-solving-questions-with-brainpower) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1690-stone-game-vii) |
 | [1840-maximum-building-height](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1563-stone-game-v) |
 | [1686-stone-game-vi](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1690-stone-game-vii) |
 ## Tree
 |  |
 | ------- |
@@ -821,10 +825,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1686-stone-game-vi](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1690-stone-game-vii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1686-stone-game-vi](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1686-stone-game-vi) |
+| [1690-stone-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1690-stone-game-vii) |
 ## Brute-Force Search
 |  |
 | ------- |
