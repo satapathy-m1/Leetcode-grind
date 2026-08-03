@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1563-stone-game-v](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1563-stone-game-v) |
 | [1670-design-front-middle-back-queue](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1670-design-front-middle-back-queue) |
+| [1686-stone-game-vi](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1686-stone-game-vi) |
 | [1732-find-the-highest-altitude](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1024-video-stitching](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1024-video-stitching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1328-break-a-palindrome](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1328-break-a-palindrome) |
+| [1686-stone-game-vi](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1686-stone-game-vi) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2126-destroying-asteroids) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1563-stone-game-v) |
+| [1686-stone-game-vi](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1686-stone-game-vi) |
 | [1840-maximum-building-height](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1686-stone-game-vi](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1686-stone-game-vi) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1840-maximum-building-height) |
 | [1859-sorting-the-sentence](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1859-sorting-the-sentence) |
@@ -641,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1563-stone-game-v) |
+| [1686-stone-game-vi](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1686-stone-game-vi) |
 ## Tree
 |  |
 | ------- |
@@ -695,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0621-task-scheduler) |
 | [1094-car-pooling](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1686-stone-game-vi](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1686-stone-game-vi) |
 | [1845-seat-reservation-manager](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1845-seat-reservation-manager) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -802,4 +808,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1686-stone-game-vi](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1686-stone-game-vi) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1686-stone-game-vi](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1686-stone-game-vi) |
 <!---LeetCode Topics End-->
