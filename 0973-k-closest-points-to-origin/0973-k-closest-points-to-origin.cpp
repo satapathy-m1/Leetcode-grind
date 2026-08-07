@@ -1,10 +1,10 @@
 class Solution {
 public:
-    typedef pair<long long, pair<int, int>> pp;
+    typedef pair<long double, pair<int, int>> pp;
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
         priority_queue<pp, vector<pp>, greater<pp>> pq;
         for(auto point : points) {
-            long long d = (pow(abs(point[0]), 2) + pow(abs(point[1]), 2));
+            long double d = sqrt(pow(abs(point[0]), 2) + pow(abs(point[1]), 2));
             pq.push({d, {point[0], point[1]}});
         }
         vector<vector<int>> ans;
