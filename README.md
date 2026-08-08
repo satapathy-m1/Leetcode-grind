@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0208-implement-trie-prefix-tree) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0289-game-of-life) |
@@ -652,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0212-word-search-ii) |
 | [0526-beautiful-arrangement](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0526-beautiful-arrangement) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/3348-smallest-divisible-digit-product-ii) |
