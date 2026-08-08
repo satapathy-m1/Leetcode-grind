@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0063-unique-paths-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0146-lru-cache) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0208-implement-trie-prefix-tree) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
