@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -879,4 +881,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0973-k-closest-points-to-origin) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
