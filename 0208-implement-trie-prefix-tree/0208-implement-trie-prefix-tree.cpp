@@ -1,51 +1,53 @@
 class Trie {
-public:
+private:
     struct TrieNode {
-        bool isEndOfWord;
         TrieNode* children[26];
+        bool endOfWord;
     };
-    TrieNode* root;
     TrieNode* getNode() {
-        TrieNode* newNode = new TrieNode();
-        newNode -> isEndOfWord = false;
-        for(int i = 0; i < 26; i++) {
-            newNode -> children[i] = NULL;
-        }
-        return newNode;
+        TrieNode* root = new TrieNode();
+        root -> endOfWord = false;
+        for(int i = 0; i < 26; i++) root -> children[i] = NULL;
+        return root;
     }
+    TrieNode* root;
+public:
     Trie() {
-       root = getNode();
+        root = getNode();
     }
     
     void insert(string word) {
         TrieNode* crawler = root;
         for(char c : word) {
-            if(crawler -> children[c - 'a'] == NULL) {
-                crawler -> children[c - 'a'] = getNode();
+            int i = c - 'a';
+            if(crawler -> children[i] == NULL) {
+                crawler -> children[i] = getNode();
             }
-            crawler = crawler -> children[c - 'a'];
+            crawler = crawler -> children[i];
         }
-        crawler -> isEndOfWord = true;
+        crawler -> endOfWord = true;
     }
     
     bool search(string word) {
         TrieNode* crawler = root;
         for(char c : word) {
-            if(crawler -> children[c - 'a'] == NULL) {
+            int i = c - 'a';
+            if(crawler -> children[i] == NULL) {
                 return false;
             }
-            crawler = crawler -> children[c - 'a'];
+            crawler = crawler -> children[i];
         }
-        return crawler -> isEndOfWord == true;
+        return crawler -> endOfWord == true;
     }
     
     bool startsWith(string prefix) {
         TrieNode* crawler = root;
         for(char c : prefix) {
-            if(crawler -> children[c - 'a'] == NULL) {
+            int i = c - 'a';
+            if(crawler -> children[i] == NULL) {
                 return false;
             }
-            crawler = crawler -> children[c - 'a'];
+            crawler = crawler -> children[i];
         }
         return true;
     }
