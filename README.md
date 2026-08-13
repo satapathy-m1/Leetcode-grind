@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1406-stone-game-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1871-jump-game-vii) |
 | [2653-sliding-subarray-beauty](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2653-sliding-subarray-beauty) |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1871-jump-game-vii) |
