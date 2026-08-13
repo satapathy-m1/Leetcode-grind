@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0063-unique-paths-ii) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0010-regular-expression-matching) |
 | [0143-reorder-list](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0486-predict-the-winner) |
 ## Math
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0049-group-anagrams) |
