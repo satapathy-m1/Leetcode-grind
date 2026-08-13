@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0904-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0994-rotting-oranges) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0648-replace-words) |
 | [0819-most-common-word](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0819-most-common-word) |
 | [0874-walking-robot-simulation](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0874-walking-robot-simulation) |
+| [0904-fruit-into-baskets](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1331-rank-transform-of-an-array) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1838-frequency-of-the-most-frequent-element) |
