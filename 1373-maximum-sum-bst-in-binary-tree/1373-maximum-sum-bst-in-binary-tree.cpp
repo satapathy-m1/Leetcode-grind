@@ -11,34 +11,27 @@
  */
 class Solution {
 private:
-    class Info {
-        public:
-            int maxi;
-            int mini;
-            bool isBST;
-            long long sum;
-    };
-    Info solve(TreeNode* root, long long &ans) {
-        if(!root) return {INT_MIN, INT_MAX, true, 0};
-        Info left = solve(root -> left, ans);
-        Info right = solve(root -> right, ans);
-
-        Info currNode;
-        currNode.maxi = max(root -> val, right.maxi);
-        currNode.mini = min(root -> val, left.mini);
-        currNode.sum = left.sum + right.sum + root -> val;
-        if(left.isBST && right.isBST && (root -> val > left.maxi && root -> val < right.mini)) {
-            currNode.isBST = true;
+    int maxi;
+    vector<int> f(TreeNode* root) {
+        if(!root) {
+            return {INT_MAX, INT_MIN, 0, 1};
         }
-        else currNode.isBST = false;
-        if(currNode.isBST) ans = max(ans, currNode.sum);
-        return currNode;
-    }
+        vector<int> left = f(root -> left);
+        vector<int> right = f(root -> right);
+        if(left[3] == 1 && right[3] == 1 && root -> val > left[1] && root -> val < right[0]) {
+            int sum = root -> val + left[2] + right[2];
+            maxi = max(sum, maxi);
+            int value = root -> val;
+            return {min(left[0], value), max(right[1], value), sum, 1};
+        }
+        else return {INT_MAX, INT_MIN, 0, 0};
 
+    }
 public:
     int maxSumBST(TreeNode* root) {
-        long long ans = 0;
-        Info node = solve(root, ans);
-        return ans;
+        if(!root) return 0;
+        maxi = 0;
+        vector<int> vec =  f(root);
+        return maxi;
     }
 };
