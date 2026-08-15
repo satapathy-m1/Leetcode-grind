@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1563-stone-game-v](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1563-stone-game-v) |
 | [1583-count-unhappy-friends](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1583-count-unhappy-friends) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1690-stone-game-vii) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1871-jump-game-vii) |
 | [2653-sliding-subarray-beauty](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2653-sliding-subarray-beauty) |
