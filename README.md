@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1563-stone-game-v](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1563-stone-game-v) |
+| [1583-count-unhappy-friends](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1583-count-unhappy-friends) |
 | [1670-design-front-middle-back-queue](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1670-design-front-middle-back-queue) |
 | [1686-stone-game-vi](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1690-stone-game-vii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1260-shift-2d-grid) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1583-count-unhappy-friends](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1583-count-unhappy-friends) |
 | [1929-concatenation-of-array](https://github.com/satapathy-m1/Leetcode-grind/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2502-design-memory-allocator](https://github.com/satapathy-m1/Leetcode-grind/tree/master/2502-design-memory-allocator) |
