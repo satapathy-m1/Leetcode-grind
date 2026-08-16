@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0322-coin-change) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -759,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -783,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/satapathy-m1/Leetcode-grind/tree/master/0230-kth-smallest-element-in-a-bst) |
