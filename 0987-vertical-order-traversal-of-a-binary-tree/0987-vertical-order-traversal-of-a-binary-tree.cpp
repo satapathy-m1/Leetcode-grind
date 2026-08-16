@@ -11,25 +11,29 @@
  */
 class Solution {
 public:
-    void buildMap(TreeNode* root, int curr_x, int curr_lvl, map<int, vector<pair<int, int>>>& mpp) {
-        if(!root) return;
-        mpp[curr_x].push_back({curr_lvl, root -> val});
-        buildMap(root -> left, curr_x - 1, curr_lvl + 1, mpp);
-        buildMap(root -> right, curr_x + 1, curr_lvl + 1, mpp);
-    }
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        if(!root -> left && !root -> right) return {{root -> val}};
         map<int, vector<pair<int, int>>> mpp;
-        buildMap(root, 0, 0, mpp);
         vector<vector<int>> ans;
-        for(auto it : mpp) {
+        queue<pair<TreeNode*, pair<int, int>>> q;
+        q.push({root, {0, 0}});
+        while(!q.empty()) {
+            int s = q.size();
+            while(s--) {
+                auto [node, other] = q.front();
+                q.pop();
+                auto [x_ax, lvl] = other;
+                mpp[x_ax].push_back({lvl, node -> val});
+                if(node -> left) q.push({node -> left, {x_ax - 1, lvl + 1}});
+                if(node -> right) q.push({node -> right, {x_ax + 1, lvl + 1}});
+            }
+        }
+        for(auto &it : mpp) {
+            int x_ax = it.first;
             auto vec = it.second;
             sort(begin(vec), end(vec));
-            vector<int> t;
-            for(auto [lvl, i] : vec) {
-                t.push_back(i);
-            }
-            ans.push_back(t);
+            vector<int> cur;
+            for(auto [lvl, el] : vec) cur.push_back(el);
+            ans.push_back(cur);
         }
         return ans;
     }
