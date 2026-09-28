@@ -11,45 +11,46 @@
 class Solution {
 private:
     ListNode* merge2Lists(ListNode* l1, ListNode* l2) {
-        ListNode* head = NULL, *temp = NULL;
-        if(!l1) return l2;
-        if(!l2) return l1;
-        
-        if(l1 -> val <= l2 -> val) {
-            head = l1;
-            l1 = l1 -> next;
-        }
+        if(!l1 && !l2) return NULL;
+        else if(!l1) return l2;
+        else if(!l2) return l1;
         else {
-            head = l2;
-            l2 = l2 -> next;
-        }
-        temp = head;
-        
-        ListNode* t1 = l1, *t2 = l2;
-
-        while(t1 && t2) {
-            if(t1 -> val <= t2 -> val) {
-                temp -> next = t1;
-                t1 = t1 -> next;
+            ListNode* t = NULL, *head = NULL;
+            if(l1 -> val <= l2 -> val) {
+                head = l1;
+                t = l1;
+                l1 = l1 -> next;
             }
             else {
-                temp -> next = t2;
-                t2 = t2 -> next;
+                head = l2;
+                t = l2;
+                l2 = l2 -> next;
             }
-            temp = temp -> next;
+            while(l1 && l2) {
+                if(l1 -> val <= l2 -> val) {
+                    t -> next = l1;
+                    l1 = l1 -> next;
+                }
+                else {
+                    t -> next = l2;
+                    l2 = l2 -> next;
+                }
+                t = t -> next;
+            }
+            if(l1) t -> next = l1;
+            else t -> next = l2;
+            return head;
         }
-        if(t1) temp -> next = t1;
-        else if(t2) temp -> next = t2;
-
-        return head;
+        return NULL;
     }
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        int n = lists.size();
-        if(n == 0) return NULL;
-        for(int i = n - 2; i >= 0; i--) {
-            lists[i] = merge2Lists(lists[i], lists[i + 1]);
+        if(lists.size() == 0) return NULL;
+        ListNode* head = lists[0];
+        for(int i = 1; i < lists.size(); i++) {
+            ListNode* mergedHead = merge2Lists(head, lists[i]);
+            head = mergedHead;
         }
-        return lists[0];
+        return head;
     }
 };
